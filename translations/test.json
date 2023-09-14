@@ -133,7 +133,6 @@
 "System": "Sistem",
 "Select system theme": "Sistem temasını seçin",
 "Select theme preference": "Tema tercihini seçin"
-"Select theme preference": "Tema tercihini seçin"
 ": system prefers dark": ": sistem karanlığı tercih eder"
 ": system prefers light": ": sistem aydınlığı tercih eder"
 "Disabling Remote Access": "Uzaktan Erişimi Devre Dışı Bırakma"
@@ -149,24 +148,23 @@
 "Deep Linking": "Derin Bağlantı"
 "The Connect dashboard links to relevant sections of the webgui, allowing quick access to those settings and server sections.": "Connect kontrol paneli, web arayüzünün ilgili bölümlerine bağlantı sağlar ve bu ayarlara ve sunucu bölümlerine hızlı erişim sağlar."
 "Online Flash Backup": "Çevrimiçi Flash Yedekleme"
-"Asla konfigürasyonunuzun yedeklemesi olmadan bırakılmayın. Flash sürücülerinizi değiştirmeniz gerekiyorsa, Connect'ten bir yedek oluşturun ve dakikalar içinde çalışmaya başlayın.": "Asla konfigürasyonunuzun yedeklemesi olmadan bırakılmayın. Flash sürücülerinizi değiştirmeniz gerekiyorsa, Connect'ten bir yedek oluşturun ve dakikalar içinde çalışmaya başlayın."
-"Real-time Monitoring": "Gerçek Zamanlı İzleme"
-"Connect, Unraid sunucunuzun çevrimiçi/çevrimdışı durumuna, kullanılabilir depolama alanına, lisans türüne, çalışma süresine, işletim sistemi sürümüne ve daha fazlasına tek bakışta kapsamlı bir genel bakış sunar.": "Connect, Unraid sunucunuzun çevrimiçi/çevrimdışı durumuna, kullanılabilir depolama alanına, lisans türüne, çalışma süresine, işletim sistemi sürümüne ve daha fazlasına tek bakışta kapsamlı bir genel bakış sunar."
-"Customizable Tiles and Themes": "Özelleştirilebilir Kutucuklar ve Temalar"
-"Özel sunucu kutucuklarını istediğiniz gibi ayarlayın ve sunucunuzun başlık resmini otomatik olarak Connect Kontrol Panelinizde görüntüleyin. Connect'in karanlık veya aydınlık modunun keyfini bile çıkarabilirsiniz.": "Özel sunucu kutucuklarını istediğiniz gibi ayarlayın ve sunucunuzun başlık resmini otomatik olarak Connect Kontrol Panelinizde görüntüleyin. Connect'in karanlık veya aydınlık modunun keyfini bile çıkarabilirsiniz."
-"License Management": "Lisans Yönetimi"
-"Lisans anahtarlarınızı istediğiniz zaman yönetin veya My Keys bölümünden lisansınızı yükseltin.": "Lisans anahtarlarınızı istediğiniz zaman yönetin veya My Keys bölümünden lisansınızı yükseltin."
-"Enjoy in your Language": "Dilinizde Keyfini Çıkarın"
-"Küresel bir kullanıcı tabanıyla Connect, İngilizce, Almanca, Fransızca, İspanyolca veya Çince olarak sunulmaktadır.": "Küresel bir kullanıcı tabanıyla Connect, İngilizce, Almanca, Fransızca, İspanyolca veya Çince olarak sunulmaktadır."
-"How do I learn more about Unraid Connect?": "Unraid Connect hakkında daha fazla bilgi edinmek için ne yapabilirim?"
-"Select theme preference": "Tema tercihini seçin",
-"Please see our <a href="https://wiki.unraid.net/Connect\" target="_blank" rel="noreferrer noopener">detailed documentation</a>.": "Lütfen <a href="https://wiki.unraid.net/Connect\" target="_blank" rel="noreferrer noopener">detaylı belgelerimize</a> bakın.",
-"More Connect Questions?": "Daha fazla Connect sorusu?",
-"See our <a href="https://forums.unraid.net/forum/93-unraid-connect/\" target="_blank" rel="noreferrer noopener">Connect kullanıcı forumunu</a> veya <a href="https://unraid.net/contact\" target="_blank" rel="noreferrer noopener">bize ulaşın</a>.": "Bize <a href="https://forums.unraid.net/forum/93-unraid-connect/\" target="_blank" rel="noreferrer noopener">Connect kullanıcı forumunu</a> veya <a href="https://unraid.net/contact\" target="_blank" rel="noreferrer noopener">bize ulaşın</a> göz atın.",
-"Enjoy the convenience and connectivity of the cloud on your Unraid homelab": "Unraid homelab'ınızda bulutun sağladığı kolaylık ve bağlantının tadını çıkarın",
-"Try Unraid Connect Now": "Şimdi Unraid Connect'i Deneyin",
+"Never ever be left without a backup of your config. If you need to change flash drives, generate a backup from Connect and be up and running in minutes.": "Asla yapılandırmanızın yedeği olmadan bırakmayın. Flash sürücülerinizi değiştirmeniz gerekiyorsa, Connect'ten bir yedek oluşturun ve dakikalar içinde çalışmaya başlayın.",
+"Real-time Monitoring": "Gerçek zamanlı İzleme",
+"Connect offers a comprehensive overview of your Unraid server's online/offline status, available storage, license type, uptime, OS version, and more at a glance.": "Connect, Unraid sunucunuzun çevrimiçi/çevrimdışı durumuna, kullanılabilir depolama alanına, lisans türüne, çalışma süresine, işletim sistemi sürümüne ve daha fazlasına tek bakışta kapsamlı bir genel bakış sunar.",
+"Customizable Tiles and Themes": "Özelleştirilebilir Kutucuklar ve Temalar",
+"Set custom server tiles how you like and automatically display your server's banner image on your Connect Dashboard. You can even enjoy Connect dark or light mode.": "Sunucu kutucuklarınızı istediğiniz gibi ayarlayın ve Connect Panonuzu sunucunuzun başlık görüntüsünü otomatik olarak görüntüleyin. Connect'in karanlık veya açık modunun keyfini bile çıkarabilirsiniz.",
+"License Management": "Lisans Yönetimi",
+"Manage your license keys at any time or even upgrade your license via the My Keys section.": "Lisans anahtarlarınızı istediğiniz zaman yönetin veya hatta My Keys bölümünden lisansınızı yükseltin.",
+"Enjoy in your Language": "Kendi Dilinizde Keyfini Çıkarın",
+"With a global user base, Connect is available in English, German, French, Spanish or Chinese.": "Küresel bir kullanıcı tabanıyla Connect, İngilizce, Almanca, Fransızca, İspanyolca veya Çince olarak mevcuttur..",
+"How do I learn more about Unraid Connect?": "Unraid Connect hakkında daha fazla bilgi nasıl edinirim?",
+"Please see our <a href=\"https://wiki.unraid.net/Connect\" target=\"_blank\" rel=\"noreferrer noopener\">detailed documentation</a>.": "Lütfen <a href="https://wiki.unraid.net/Connect\" target=\"_blank\" rel=\"noreferrer noopener\">detaylı dokümantasyonumuza</a> göz atın.",
+"More Connect Questions?": "Daha fazla Connect sorusu mu var?",
+"See our <a href=\"https://forums.unraid.net/forum/93-unraid-connect/\" target=\"_blank\" rel=\"noreferrer noopener\">Connect user forum</a> or <a href=\"https://unraid.net/contact\" target=\"_blank\" rel=\"noreferrer noopener\">contact us</a>.": "<a href="https://forums.unraid.net/forum/93-unraid-connect/\" target=\"_blank\" rel=\"noreferrer noopener\">Connect kullanıcı forumumuza</a> göz atın veya <a href=\"https://unraid.net/contact/\" target\="_blank\" rel=\"noreferrer noopener\">bizimle iletişime geçin</a>.",
+"Enjoy the convenience and connectivity of the cloud on your Unraid homelab": "Unraid homelab'ınızda bulutun sağladığı kolaylık ve bağlantının tadını çıkarın.",
+"Try Unraid Connect Now": "Unraid Connect Now'ı Deneyin",
 "Ready to take your Unraid experience to the next level?": "Unraid deneyiminizi bir üst seviyeye taşımaya hazır mısınız?",
-"Take Your Unraid Server to the Next Level": "Unraid Sunucunuzu Bir Sonraki Seviyeye Taşıyın",
-"Your one-stop shop for server management, monitoring, and maintenance": "Sunucu yönetimi, izleme ve bakım için tek nokta durağınız",
-"Unraid Connect FAQs": "Unraid Connect SSS"
+"Take Your Unraid Server to the Next Level": "Unraid Sunucunuzu Bir Üst Seviyeye Taşıyın.",
+"Your one-stop shop for server management, monitoring, and maintenance": "Sunucu yönetimi, izlemesi ve bakımı için tek noktanız.",
+"Unraid Connect FAQs": "Unraid Connect Sık Sorulan Sorular"
 }
